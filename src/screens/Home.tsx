@@ -6,4 +6,4 @@ export function Home() {
 
         </View>
     )
-}
+}  
