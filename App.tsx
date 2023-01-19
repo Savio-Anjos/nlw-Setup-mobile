@@ -9,7 +9,7 @@ import {
 import { Loading } from './src/assets/components/Loading';
 
 export default function App() {
-  const [fontsLoaded] = useFonts({
+  const [fontsLoaded] = useFonts({ 
   Inter_400Regular,
   Inter_600SemiBold,
   Inter_800ExtraBold
