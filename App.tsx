@@ -6,7 +6,7 @@ import {
   Inter_600SemiBold,
   Inter_800ExtraBold
  } from '@expo-google-fonts/inter';
-import { Loading } from './src/assets/components/Loading';
+import { Loading } from './src/components/Loading';
 
 export default function App() {
   const [fontsLoaded] = useFonts({ 
