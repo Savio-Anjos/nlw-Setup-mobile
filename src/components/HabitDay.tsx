@@ -1,5 +1,7 @@
 import { TouchableOpacity, Dimensions, TouchableOpacityProps } from "react-native";
 
+import { genereteProgressPorcentage } from '../utils/generate-ptogress-porcentage';
+
 const WEEK_DAYS = 7;
 const SCREEN_HORIZONTAL_PADDING = (32 * 2) / 5;
 
