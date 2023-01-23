@@ -1,4 +1,4 @@
- <p align='center'><img width='200' src=".github/logo.svg"/></p>
+ <p align='center'><img width='200' src=".github/logo2.svg"/></p>
 
  <h1 align="center">NLW Setup Mobile</h1>
 
