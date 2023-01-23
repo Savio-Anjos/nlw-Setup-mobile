@@ -1,4 +1,4 @@
- <p align='center'><img width='200' src=".gitHub/logo.svg"/></p>
+ <p align='center'><img width='200' src=".github/logo.svg"/></p>
 
  <h1 align="center">NLW Setup Mobile</h1>
 
@@ -49,8 +49,8 @@ npx expo start
 ```
 
 ## 🖼️ Layout
-<img src=".gitHub/home.jpeg">
-<img src=".gitHub/modal.jpeg">
+<img src=".github/home.jpeg">
+<img src=".github/modal.jpeg">
 
 
 
