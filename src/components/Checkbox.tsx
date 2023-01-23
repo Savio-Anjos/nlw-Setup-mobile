@@ -8,7 +8,7 @@ interface Props extends TouchableOpacityProps {
     checked?: boolean;
    
 }
-
+    
 export function Checkbox({title, checked = false, ...rest }: Props) {
     return (
       <TouchableOpacity
