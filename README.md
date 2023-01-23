@@ -50,6 +50,7 @@ npx expo start
 
 ## 🖼️ Layout
 <p align="center"><img width="400" src=".github/home.jpeg"></p>
+ ---
 <p align="center"><img  width="400" src=".github/modal.jpeg"></p>
 
 
