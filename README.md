@@ -49,7 +49,7 @@ npx expo start
 ```
 
 ## 🖼️ Layout
-<img src=".github/home.jpeg">
+<img width="200" src=".github/home.jpeg">
 <img src=".github/modal.jpeg">
 
 
